@@ -1,12 +1,12 @@
-# FlorCoinsciente
+# FlorConsciente
 
-**FlorCoinsciente** es un proyecto de emprendimiento desarrollado como parte del curso [Nombre del Curso] en el SENA Colombia. Se trata de un marketplace cannábico enfocado en el autocultivo, la educación sobre el cultivo y consumo responsable, con un fuerte compromiso con la sostenibilidad ambiental, la responsabilidad social y la mitigación del microtráfico en Colombia.
+**FlorConsciente** es un proyecto de emprendimiento desarrollado como parte del curso de nEmprendimiento en el SENA. Se trata de un marketplace cannábico enfocado en el autocultivo, la educación sobre el cultivo y consumo responsable, con un fuerte compromiso con la sostenibilidad ambiental, la responsabilidad social y la mitigación del microtráfico en Colombia.
 
 ---
 
 ## 📋 Descripción
 
-FlorCoinsciente busca ser una plataforma integral que:
+FlorConsciente busca ser una plataforma integral que:
 
 - Facilite el acceso a insumos y productos para el autocultivo de cannabis.
 - Promueva la educación a través de contenido y talleres digitales sobre cultivo responsable y consumo informado.
