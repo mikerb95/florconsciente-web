@@ -1,45 +1,30 @@
-# [Mintaka](https://mintaka.majestico.co)
+# FlorConsciente
 
-> [!IMPORTANT]
-> Currently this theme only works with the premium version of GSAP, the steps to use the standard version will be available in the future.
-
-<a href="https://astro.build/">![Astro](.github/images/astro-icon.png)</a>
-<a href="https://tailwindcss.com/">![Tailwind](.github/images/tailwind-icon.png)</a>
-<a href="https://gsap.com/">![Gsap](.github/images/gsap.png)</a>
-
-Mintaka is a template made with [Astro](https://astro.build), [Tailwind](https://tailwindcss.com/) and [Gsap](https://gsap.com/)
-
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/majesticooss/mintaka)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/majesticooss/mintaka)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/majesticooss/mintaka)
-
-
-### [🧪 Site preview →](https://mintaka.majestico.co)
-
-### [🧑‍🚀 Astro website →](https://astro.build/)
-
-### [🕮 Astro docs →](https://docs.astro.build/en/getting-started/)
+**FlorConsciente** es un proyecto de emprendimiento desarrollado como parte del curso de nEmprendimiento en el SENA. Se trata de un marketplace cannábico enfocado en el autocultivo, la educación sobre el cultivo y consumo responsable, con un fuerte compromiso con la sostenibilidad ambiental, la responsabilidad social y la mitigación del microtráfico en Colombia.
 
 ---
 
-## Preview
+## 📋 Descripción
 
-![Mintaka Preview](.github/images/majestico_share.gif)
+FlorConsciente busca ser una plataforma integral que:
 
-## 🧪 Test
-
-On the folder run
-
-1. `bun install`  <small>(or `yarn` or `pnpm i`)</small>
-2. `bun run dev`  <small>(or `yarn dev` or `pnpm dev`)</small>
-
-## ✅ Features
-
-- [x] Localization
-- [x] Blog
+- Facilite el acceso a insumos y productos para el autocultivo de cannabis.
+- Promueva la educación a través de contenido y talleres digitales sobre cultivo responsable y consumo informado.
+- Impulse prácticas carbono neutro para reducir el impacto ambiental.
+- Apoye a las comunidades locales en la lucha contra el microtráfico.
+- Garantice un espacio seguro y confiable para usuarios comprometidos con la legalidad y la responsabilidad social.
 
 ---
 
-<p align="right"><a href="https://majestico.co" target="_blank">majestico.co</p>
+## ⚙️ Tecnologías utilizadas
+
+- [React](https://reactjs.org/) - Para la interfaz de usuario.
+- [Node.js](https://nodejs.org/) - Backend y APIs.
+- [Express](https://expressjs.com/) - Servidor web.
+- [MongoDB](https://www.mongodb.com/) - Base de datos NoSQL.
+- [Docker](https://www.docker.com/) - Contenedores para desarrollo y despliegue.
+- [GitHub Actions](https://github.com/features/actions) - Integración continua y despliegue automático.
+
+---
+
+
