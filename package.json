@@ -1,15 +1,15 @@
 {
-	"name": "@majesticooss/mintaka",
+	"name": "@florconsciente/marketplace",
 	"type": "module",
 	"version": "0.0.1",
 	"private": true,
-	"description": "majestico.co website",
+	"description": "Marketplace cannábico enfocado en autocultivo, educación y sostenibilidad. Proyecto del SENA en Colombia.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/majesticooss/mintaka.git"
+		"url": "https://github.com/mikerb95/florconsciente-web"
 	},
-	"bugs": "https://github.com/majesticooss/mintaka/issues",
-	"homepage": "https://mintaka.co",
+	"bugs": "https://github.com/mikerb95/florconsciente-web",
+	"homepage": "https://florconsciente-web.vercel.app/",
 	"files": [
 		"*"
 	],
