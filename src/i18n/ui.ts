@@ -8,7 +8,7 @@ export const ui = {
 	en: {
 		or: "o",
     contact: "Contáctanos",
-    contacts: "Contactos",
+    contacts: "Contacto",
     contactus: "Contáctanos",
     projects: "Proyectos",
     services: "Servicios",

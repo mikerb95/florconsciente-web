@@ -18,8 +18,7 @@
 		"start": "astro dev",
 		"build": "astro build",
 		"preview": "astro preview",
-		"astro": "astro",
-		"pwa:generate-assets": "pwa-assets-generator --preset minimal public/logo.svg"
+		"astro": "astro"
 	},
 	"dependencies": {
 		"@astrojs/mdx": "4.0.8",

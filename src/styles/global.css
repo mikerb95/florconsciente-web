@@ -77,11 +77,11 @@ html {
 
 ::-moz-selection {
 	color: white;
-	background: orange;
+	background: rgb(31, 209, 54);
 }
 ::selection {
 	color: white;
-	background: orange;
+	background: rgb(31, 209, 54);
 }
 .dark ::-moz-selection {
 	color: orange;
