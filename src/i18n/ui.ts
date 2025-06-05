@@ -23,7 +23,7 @@ export const ui = {
     "hero.title.3": "sostenibilidad",
     "hero.title.4": "comunidad",
     "hero.subtitle":
-      "Impulsamos el autocultivo y consumo responsable de cannabis en Colombia, con educación, carbono neutro y acciones para mitigar el microtráfico, apoyando el desarrollo social y ambiental.",
+      "Impulsamos el autocultivo y consumo responsable de cannabis en Colombia, con educación, cero impacto ambiental con bonos de carbono neutro y acciones para mitigar el microtráfico, apoyando el desarrollo social y ambiental.",
     "hero.scroll": "desplázate para descubrir más",
     "websites.title": "Nuestra misión",
     "apps.title": "Marketplace",
