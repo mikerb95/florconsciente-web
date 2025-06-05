@@ -16,7 +16,7 @@ export const ui = {
     tagline:
       "FlorConsciente es el marketplace cannábico líder en Colombia, promoviendo el autocultivo responsable, la educación sobre cultivo, consumo consciente y una economía social sostenible con impacto positivo.",
     "projects.yours": "Tu proyecto",
-    "projects.see": "Ver proyecto",
+    "projects.see": "Leer más...",
     "hero.title.main": "Cultiva",
     "hero.title.1": "conocimiento",
     "hero.title.2": "responsabilidad",
